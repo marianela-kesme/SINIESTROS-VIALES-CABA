@@ -1,4 +1,4 @@
-                      Data Analytics
+                      DATA ANALITICS
 SINIESTROS VIALES EN CIUDAD AUTÓNOMA DE BUENOS AIRES
 
 
