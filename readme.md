@@ -1,5 +1,5 @@
 # 🚀 PROYECTO INDIVIDUAL 2 🚀
-##   Análisis de datos
+##            Análisis de datos
 ## SINIESTROS VIALES EN CIUDAD AUTÓNOMA DE BUENOS AIRES
 
 ![carro](https://dercocenter-api.s3.us-east-1.amazonaws.com/medias/dercocenter/migration/news/iStock-1006045926-1.jpg)
