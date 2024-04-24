@@ -8,7 +8,8 @@
 
 Python Pandas Numpy Matplotlib Seaborn Power BI GitHub Jupyter Visual Studio Code
 
-Introducción
+## Introducción⚠️ 🚧
+
 Los siniestros viales y sus trágicas consecuencias son una preocupación constante para las autoridades locales y la comunidad en general. La necesidad de tomar medidas efectivas para reducir la cantidad de víctimas fatales en las carreteras es imperativa. En este contexto, se propone la elaboración de un proyecto de análisis de datos destinado a proporcionar información valiosa que permita a las autoridades de la Ciudad Autónoma de Buenos Aires (CABA), tomar medidas específicas y basadas en datos para abordar este problema crítico de seguridad vial.
 
 Objetivo
