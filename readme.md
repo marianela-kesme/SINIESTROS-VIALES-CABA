@@ -6,25 +6,28 @@
 ![carro](https://dercocenter-api.s3.us-east-1.amazonaws.com/medias/dercocenter/migration/news/iStock-1006045926-1.jpg)
 
 
-![python](https://camo.githubusercontent.com/63e68e1a3f2c82d570eac2118c9c02f7357f2520e5c90a18498f431416ed2041/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e266c6162656c436f6c6f723d7768697465) ![pandas](https://camo.githubusercontent.com/9e78bb9f2ff1ef9379225ff2d6f5f016c2ac8fadc8f9216f3e494bcc267d7c7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d3333333333333f7374796c653d666c6174266c6f676f3d70616e646173)![numpy](https://camo.githubusercontent.com/1217dd40533a97f01df526f5bdc8b8ba8d3051c19e5f9a8c5f6222ee69a67f8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d70792d3333333333333f7374796c653d666c6174266c6f676f3d6e756d7079) ![Matplotlib](https://camo.githubusercontent.com/403e5ce2d3ef6d224bea0c7c80a56163e2b45f6e22217763c8a120ef75a358ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174706c6f746c69622d3333333333333f7374796c653d666c6174266c6f676f3d6d6174706c6f746c6962) ![Seaborn](https://camo.githubusercontent.com/e201375c38daa6072b01be9a990ce739894b45a4ba22e2d6810b595510d04237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536561626f726e2d3333333333333f7374796c653d666c6174266c6f676f3d736561626f726e) ![powerbi](https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269) ![github](https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562) ![Jupiter](https://camo.githubusercontent.com/e0955580931304a8047b17e08b750dfb1a5f7bab8520de6137973afb5c7165c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3333333333333f7374796c653d666c6174266c6f676f3d6a757079746572) ![vscode](https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-
-
 ## Introducción⚠️ 🚧
 
 Los siniestros viales y sus trágicas consecuencias son una preocupación constante para las autoridades locales y la comunidad en general. La necesidad de tomar medidas efectivas para reducir la cantidad de víctimas fatales en las carreteras es imperativa. En este contexto, se propone la elaboración de un proyecto de análisis de datos destinado a proporcionar información valiosa que permita a las autoridades de la Ciudad Autónoma de Buenos Aires (CABA), tomar medidas específicas y basadas en datos para abordar este problema crítico de seguridad vial.
 
-Objetivo
+## Objetivo⚠️ 🚧
+
 Recopilación y Análisis de Datos: Recolectar y analizar datos relacionados con siniestros viales, incluyendo ubicación, tipo de vehículo, víctimas, acusados, tipos de calle y otras variables relevantes.
 
-Elaboración de KPI's: Desarrollar indicadores claves de rendimiento que nos permitan realizar un seguimiento de los puntos más relevantes para el analisis y la reducción de accidentes de tránsito.
+## Elaboración de KPI's :⚠️ 🚧 
+
+Desarrollar indicadores claves de rendimiento que nos permitan realizar un seguimiento de los puntos más relevantes para el analisis y la reducción de accidentes de tránsito.
 
 Identificación de Patrones y Tendencias: Identificar patrones y tendencias en los datos que puedan ayudar a comprender mejor las causas y circunstancias de los siniestros viales.
 
 Localización de Puntos Críticos: Identificar áreas geográficas con una alta incidencia de siniestros fatales y analizar las causas subyacentes.
 
-Perfil de las Víctimas: Crear perfiles demográficos de las víctimas fatales, incluyendo edad, género y cualquier otra característica relevante.
+## Perfil :⚠️ 🚧 
 
-Contexto
+ Crear perfiles demográficos de las víctimas fatales, incluyendo edad, género y cualquier otra característica relevante.
+
+## Contexto :⚠️ 🚧 
+
 Los accidentes de tránsito, una de las primeras causas de muerte en el mundo no son azarosos ni responden a ningún fatalismo. Son siempre consecuencia de una cadena causal de eventos y circunstancias en las que nosotros, como sociedad, podemos intervenir para evitarlos. Los choques y colisiones presentan características relacionadas con factores humanos, mecánicos y climáticos.
 
 En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales. Aunque muchas jurisdicciones han logrado disminuir la cantidad de accidentes de tránsito, esta sigue siendo la principal causa de muertes violentas en el país. Los informes del Sistema Nacional de Información Criminal (SNIC), del Ministerio de Seguridad de la Nación, revelan que entre 2018 y 2022 se registraron 19.630 muertes en siniestros viales en todo el país. Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
@@ -50,51 +53,59 @@ No realizar el debido mantenimiento de tu vehículo.
 Factores climáticos: niebla, lluvia, granizo, vientos.
 Dejamos a disposición del lector, la siguiente guía práctica la cual tiene como objetivo brindar información básica sobre cómo actuar ante la ocurrencia de un siniestro vial. Dicho documento es suministrado por el gobierno de la Ciudad de Buenos Aires.
 
-Datasets
+## Datasets :⚠️ 🚧 
+
 Para la realización del proyecto, nos disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. El dataset original se encuentra en el siguiente link.
 
 Este dataset contiene dos hojas llamadas: hechos y víctimas.
 
 Asimismo, se incluye un documento que sirve de guía para un mayor entendimiento de la data analizada. Dicho documento se encuentra en el siguiente link.
 
-Herramientas utilizadas
+## Herramientas utilizadas:⚠️ 🚧 
+
 Para el desarrollo del proyecto utilizamos distintas herramientas las que incluyen:
 
-ETL y análisis de datos:
-
-Python
-Pandas
-MatplotLib
-Seaborn
-Visualización de datos y Dashboard:
-
-PowerBI
-NovyPro (en este link se encuentra el tablero desarrollado) EN DESARROLLO
-Análisis exploratorio de datos (EDA)
-El análisis exploratorio se divide en dos, uno para la tabla de hechos y otro para la tabla de victimas.
+![python](https://camo.githubusercontent.com/63e68e1a3f2c82d570eac2118c9c02f7357f2520e5c90a18498f431416ed2041/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e266c6162656c436f6c6f723d7768697465)
+![pandas](https://camo.githubusercontent.com/9e78bb9f2ff1ef9379225ff2d6f5f016c2ac8fadc8f9216f3e494bcc267d7c7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d3333333333333f7374796c653d666c6174266c6f676f3d70616e646173)
+![numpy](https://camo.githubusercontent.com/1217dd40533a97f01df526f5bdc8b8ba8d3051c19e5f9a8c5f6222ee69a67f8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d70792d3333333333333f7374796c653d666c6174266c6f676f3d6e756d7079)
+![Matplotlib](https://camo.githubusercontent.com/403e5ce2d3ef6d224bea0c7c80a56163e2b45f6e22217763c8a120ef75a358ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174706c6f746c69622d3333333333333f7374796c653d666c6174266c6f676f3d6d6174706c6f746c6962) 
+![Seaborn](https://camo.githubusercontent.com/e201375c38daa6072b01be9a990ce739894b45a4ba22e2d6810b595510d04237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536561626f726e2d3333333333333f7374796c653d666c6174266c6f676f3d736561626f726e)
+![powerbi](https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269)
+![github](https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562)
+![Jupiter](https://camo.githubusercontent.com/e0955580931304a8047b17e08b750dfb1a5f7bab8520de6137973afb5c7165c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3333333333333f7374796c653d666c6174266c6f676f3d6a757079746572) 
+![vscode](https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
 
 El mismo consiste en los siguientes pasos:
 
-Ingesta de datos: se importan librerias y se leen los datos a trabajar.
+ # Ingesta de datos:  
+ se importan librerias y se leen los datos a trabajar.
 
-Inspección preliminar: se analiza el dataset correspondiente con el objetivo de interpretar que información tenemos, la calidad de sus datos, entre otras cosas.
+# Inspección preliminar: 
+se analiza el dataset correspondiente con el objetivo de interpretar que información tenemos, la calidad de sus datos, entre otras cosas.
 
-Duplicados: se busca la existencia de registros duplicados y se decide que hacer con ellos.
+# Duplicados: 
+se busca la existencia de registros duplicados y se decide que hacer con ellos.
 
-Valores faltantes: al igual que con los duplicados, buscamos valores faltantes y determianamos como vamos a trabajar con ellos.
+# Valores faltantes: 
+Al igual que con los duplicados, buscamos valores faltantes y determianamos como vamos a trabajar con ellos.
 
-Outliers: se rastrea dentro de los datasets, la posible existencia de outliers con el objetivo de eliminarlos si fuera necesario y que eso no altere la calidad del análisis.
+# Outliers:
+Se rastrea dentro de los datasets, la posible existencia de outliers con el objetivo de eliminarlos si fuera necesario y que eso no altere la calidad del análisis.
 
-Gráficos (variables cuantitativas): se identifican las variables numéricas y se busca correlación entre ellas para evitar sesgamientos e inconsistencias. Además, se analiza la distribución de las mismas mediante la utilización de gráficos con el objetivo de identificar tendencias y comportamientos en los datos que puedan ser de utilidad para el análisis posterior y la creación del dashboard.
+# Gráficos (variables cuantitativas):
+Se identifican las variables numéricas y se busca correlación entre ellas para evitar sesgamientos e inconsistencias. Además, se analiza la distribución de las mismas mediante la utilización de gráficos con el objetivo de identificar tendencias y comportamientos en los datos que puedan ser de utilidad para el análisis posterior y la creación del dashboard.
 
-Gráficos (variables cualitativas): de las misma manera que con las variables cuantitativas, analizamos las variables categóricas con el mismo objetivo que el anterior.
+# Gráficos (variables cualitativas):
+De las misma manera que con las variables cuantitativas, analizamos las variables categóricas con el mismo objetivo que el anterior.
 
-Creación CSV: disponibilizamos un archivo CSV para usar de base en la creación del dashboard.
+# Creación CSV: 
+Disponibilizamos un archivo CSV para usar de base en la creación del dashboard.
 
 La información detallada del paso a paso realizado se encuentra en los siguientes enlaces: EDA Hechos y EDA Victimas
 
-Observaciones generales de los datos
-Hechos
+## Observaciones generales de los datos
+
+# Hechos
 
 En su gran mayoría, aproximadamente el 97% de los casos, los siniestros viales resultan en una sola víctima fatal, mientras que los casos con 2 o 3 homicidios son notoriamente menos frecuentes.
 
@@ -106,7 +117,7 @@ Se observa un pico de siniestros en las primeras horas de la mañana, relacionad
 
 Los siniestros son más frecuentes en avenidas debido al mayor tráfico, velocidad promedio, intersecciones complejas y concentración de actividades.
 
-Los siniestros más comunes involucran a peatones y pasajeros de transporte público, como colectivos. En la Ciudad Autónoma de Buenos Aires, hay actualmente 137 líneas de colectivos, 33 de las cuales operan completamente en la ciudad.
+Los siniestros más comunes involucran a peatones y pasajeros de transporte público. En la Ciudad Autónoma de Buenos Aires, hay actualmente 137 líneas de colectivos, 33 de las cuales operan completamente en la ciudad.
 
 Las víctimas más frecuentes de estos siniestros son motociclistas y peatones, lo que se relaciona con la alta cantidad de motos y el tráfico en la ciudad.
 
@@ -114,7 +125,7 @@ Autos y colectivos de pasajeros son los vehículos más frecuentemente acusados 
 
 Las comunas 1, 4, 7, 8 y 9 son las que experimentan el mayor volumen de siniestros viales en la Ciudad Autónoma de Buenos Aires.
 
-Víctimas
+# Víctimas
 
 La edad más común de las víctimas se encuentra en el rango de 20 a 40 años, posiblemente relacionado con la edad mínima para obtener una licencia de conducir. La cantidad de víctimas disminuye en edades superiores a 40 años.
 
@@ -128,32 +139,27 @@ En aproximadamente el 76% de los casos, las víctimas fatales son hombres, con u
 
 En los accidentes donde la víctima es el conductor, en su mayoría, el sexo del conductor es masculino.
 
-Indicadores de rendimiento clave (KPI)
+# Indicadores de rendimiento clave (KPI)
 Se proponen 3 indicadores claves, determinados a partir del analísis y la intepretación realizada en el punto anterior.
 
 Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
-
-Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
 Nro de homicidios: obtenido del dataset hechos.
 
 Población total: se decidió utilizar la población del censo 2022.
 
-Este KPI nos permite comparar la tasa de homicidios de un semestre específico contra el semestre inmediatamente anterior. Se definió la reducción como un valor positivo. Esto quiere decir que si el KPI nos da un valor mayor que 0, se debe a que el semestre actual disminuyó la cantidad de homidicios en comparación con el anterior. Si esa disminución es mayor que el 10%, entonces se concluye que el objetivo está cumplido. Podemos observar además, que tan cerca o que tan lejos del objetivo se encuentra la situación del semestre actual vs el anterior.
-
 Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
-
-Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
 Cantidad de accidentes mortales de motociclistas: obtenido del dataset hechos, filtrando las victimas por "MOTO".
 
-Este KPI nos permite comparar la cantidad de accidentes mortales en motocicleta de un año específico contra el año inmediatamente anterior. Se definió la reducción como un valor positivo. Esto quiere decir que si el KPI nos da un valor mayor que 0, se debe a que el año actual disminuyó la cantidad de accidentes mortales en motocicleta en comparación con el año anterior. Si esa disminución es mayor que el 7%, entonces se concluye que el objetivo está cumplido. De la misma manera que en el KPI anterior, podemos observar que tan cerca o que tan lejos del objetivo se encuentra la situación del año actual vs el anterior.
-
 Reducir en un 10% la cantidad de accidentes mortales de PEATONES en el último año, en CABA, respecto al año anterior.
 
-KPI
 
-Conclusiones generales
+
+# KPI
+
+# Conclusiones generales
+
 A partir de las observaciones y datos presentados en el análisis de siniestros viales, se pueden extraer varias conclusiones importantes. Estas conclusiones proporcionan una visión integral de la situación y pueden ser fundamentales para la toma de decisiones y la formulación de políticas orientadas a mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires:
 
 Perfil de los Siniestros Viales: Los siniestros viales con una sola víctima fatal son abrumadoramente predominantes, representando aproximadamente el 97% de los casos. Esto sugiere que la mayoría de los incidentes son de naturaleza no múltiple y, por lo tanto, pueden estar relacionados con factores individuales o comportamientos del conductor.
