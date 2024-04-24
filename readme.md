@@ -1,10 +1,5 @@
 # 🚀 PROYECTO INDIVIDUAL 2 🚀
 
-<center>
-Analisis de Datos
-===================
-</center>
-
       
 ## SINIESTROS VIALES EN CIUDAD AUTÓNOMA DE BUENOS AIRES
 
