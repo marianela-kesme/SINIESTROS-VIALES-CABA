@@ -162,7 +162,9 @@ Reducir en un 10% la cantidad de accidentes mortales de PEATONES en el último a
 
 
 
-# KPI
+# DASHBOARD
+
+![carro](https://github.com/marianela-kesme/SINIESTROS-VIALES-CABA/blob/main/IMG_20240424_122533~3.jpg?raw=true)
 
 # Conclusiones generales
 
