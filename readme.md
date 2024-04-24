@@ -103,6 +103,8 @@ Se rastrea dentro de los datasets, la posible existencia de outliers con el obje
 # Gráficos (variables cuantitativas):
 Se identifican las variables numéricas y se busca correlación entre ellas para evitar sesgamientos e inconsistencias. Además, se analiza la distribución de las mismas mediante la utilización de gráficos con el objetivo de identificar tendencias y comportamientos en los datos que puedan ser de utilidad para el análisis posterior y la creación del dashboard.
 
+![PIC1](https://github.com/marianela-kesme/SINIESTROS-VIALES-CABA/blob/main/FALLECIDOS%20POR%20MES%20Y%20ANIO.rtf)
+
 # Gráficos (variables cualitativas):
 De las misma manera que con las variables cuantitativas, analizamos las variables categóricas con el mismo objetivo que el anterior.
 
