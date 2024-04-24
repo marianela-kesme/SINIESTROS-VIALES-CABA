@@ -1,7 +1,7 @@
 # 🚀 PROYECTO INDIVIDUAL 2 🚀
 
  <center>
-# Análisis de datos
+## Análisis de datos
 </center>
       Análisis de datos
       
